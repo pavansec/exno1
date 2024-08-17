@@ -128,7 +128,7 @@ STEP 6: Use zscore of to remove outliers
 
 # Result
           <<include your Result here>
-
+ IQR(Inter Quartile Range)
 ![image](https://github.com/user-attachments/assets/33213eac-43f9-4fdc-b059-f42056bc25de)
-
+ Z-Score
 ![image](https://github.com/user-attachments/assets/071bd377-8dce-48ed-a874-b52d9225345c)
